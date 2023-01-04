@@ -1,4 +1,4 @@
-## Hi 👋, I'm Suraj!
+# Hi 👋, I'm Suraj!
 
 I am a second-year Computer Science undergrad student that is passionate about **full-stack web development** and **machine learning**.
 
